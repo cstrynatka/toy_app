@@ -1,3 +1,22 @@
+body { 
+	padding-top: 60px;
+}
+
+table {
+	background-color: #0E1A40;
+	color: #DAFF9B;
+	border: 15px;
+}
+
+h1 {
+	color: #FF0000;
+	font-family: Helvetica;
+}
+
+p {
+	font-family: Helvetica;
+}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
